@@ -19,8 +19,5 @@ This application supports the following sorting algorithms:
 
    
 ## Images
-![Screenshot (7)](https://github.com/user-attachments/assets/d40a1d3f-4d33-4174-8648-b11adac58358)
-
-
-
+![Screenshot (7)](https://github.com/user-attachments/assets/3c5e0129-4521-407f-bf82-09e07f348cb0)
 
